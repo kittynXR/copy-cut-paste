@@ -1,7 +1,7 @@
 {
   "name": "cat.kittyn.copycutpaste",
   "displayName": "cátte — Copy Cut Paste",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Adds 3 much needed buttons to Unity assets: Copy, Cut, and Paste.",
   "gitDependencies": {},
   "vpmDependencies": {},
