@@ -1,0 +1,36 @@
+{
+  "name": "cátte — Copy Cut Paste VPM Repository",
+  "author": "kittyn",
+  "url": "https://copy-cut-paste.kittyn.cat/index.json",
+  "id": "cat.kittyn.copycutpaste",
+  "packages": {
+    "cat.kittyn.copycutpaste": {
+      "versions": {
+        "1.0.2": {
+          "name": "cat.kittyn.copycutpaste",
+          "displayName": "cátte — Copy Cut Paste",
+          "version": "1.0.2",
+          "unity": "2019.4",
+          "description": "Adds 3 much needed buttons to Unity assets: Copy, Cut, and Paste.",
+          "author": {
+            "name": "kittyn",
+            "email": "cat@kittyn.cat",
+            "url": "https://kittyn.cat"
+          },
+          "license": "MIT",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "keywords": [
+            "kittyn",
+            "catte",
+            "unity",
+            "editor",
+            "tool"
+          ],
+          "url": "https://github.com/kittynXR/cat.kittyn.copycutpaste/releases/download/v1.0.2/cat.kittyn.copycutpaste-1.0.2.zip",
+          "samples": []
+        }
+      }
+    }
+  }
+}
